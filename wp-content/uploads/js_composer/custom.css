@@ -1,0 +1,11 @@
+@media only screen and (min-width: 980px) {
+    #toolbar {
+    background-color: #ffffff !important;
+  }
+}
+.search-submit {
+    color: white !important;
+}
+.items-number {
+    color: white !important;
+}

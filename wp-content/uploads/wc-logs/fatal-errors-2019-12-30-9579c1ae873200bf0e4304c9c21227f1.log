@@ -1,0 +1,6 @@
+2019-12-30T23:03:58+00:00 CRITICAL Call to undefined function zget_option() en C:\xampp\htdocs\ligimport\wp-content\plugins\hogash-mailchimp\widget\widget-mailchimp.php en la línea 124
+
+2019-12-30T23:04:17+00:00 CRITICAL Call to undefined function zget_option() en C:\xampp\htdocs\ligimport\wp-content\plugins\hogash-mailchimp\widget\widget-mailchimp.php en la línea 124
+
+2019-12-30T23:35:17+00:00 CRITICAL Maximum execution time of 240 seconds exceeded en C:\xampp\htdocs\ligimport\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductSearch.php en la línea 10
+
